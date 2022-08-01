@@ -1,1 +1,2 @@
-print('hello, world')
+f = ('Digite uma frase: ')
+print(f)
